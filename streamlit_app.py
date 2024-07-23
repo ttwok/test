@@ -1,6 +1,9 @@
 import streamlit as st
 
-st.title('My Streamlit App')
+st.title('My title')
+st.header('header')
+st.subheader('subheader')
+             
 a =1
 b =2
 c = a+b
