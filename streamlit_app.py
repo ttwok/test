@@ -6,3 +6,4 @@ b =2
 c = a+b
 st.write('Hello, world!!!!!!!!!!!!!!!!!')
 st.write(c)
+st.code(c)
