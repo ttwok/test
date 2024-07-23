@@ -17,3 +17,6 @@ def write():
   return st.caption('안녕')
 write()
 write()
+'매직커맨드 방법'
+'_매직커맨드 방법'
+'매직:blue[커맨드] 방법'
