@@ -12,3 +12,4 @@ def write():
   st.caption('안녕하세요')
   st.text('안녕하세요')
 write()
+write()
