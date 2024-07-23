@@ -11,5 +11,6 @@ def write():
   st.code(c)
   st.caption('안녕하세요')
   st.text('안녕하세요')
+  return st.caption('안녕')
 write()
 write()
